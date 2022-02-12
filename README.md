@@ -1,3 +1,3 @@
-#Pythona spēle
+# Pythona spēle
 
 >Kaut kāds teksts
