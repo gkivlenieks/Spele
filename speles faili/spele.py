@@ -1,18 +1,22 @@
 from tkinter import *
 
+#size of canvas
 canvazwidth = 900
 canvazheight = 900
+#border line width and color
 linewidth = 20
 linecolor = 'red'
+#start position of cube
 xx = 20
 yy = canvazheight - 20
 r = Tk()
 
+#canvaz
 MainCanvas = Canvas(
     width = canvazwidth,
     height = canvazheight
 )
-
+#starting canvaz
 MainCanvas.pack()
 #creation of cube
 cubee = MainCanvas.create_rectangle(xx, yy, xx + 20, yy - 20, fill='yellow')
