@@ -1,6 +1,6 @@
 # Pythona spēle
 
->Kaut kāds teksts
+>Kaut kāds tekstsss
 
 
 
@@ -8,3 +8,5 @@
 
 # 9. rindiņa
 > trenneris ir nikns.
+## Jauna Rinda 
+### Kaut kādas izmaiņas ☻
